@@ -9,7 +9,7 @@ It is (or will be) a discord bot playing music from QQMusics. It includes `playe
 * `html_parsing.py` is a helper function to analyze the html documents.
 
 ## .env
-The .env file is used to store environment values. Remember to change each values into your own data.
+The .env file is used to store environment values. Remember to change each value into your own data.
 
 ## Acknowledgments
 https://github.com/lonsty/qqmusic-cookie-setter \
