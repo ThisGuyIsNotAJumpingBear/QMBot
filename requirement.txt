@@ -1,0 +1,11 @@
+discord
+python-dotenv
+selenium
+json
+webdriver-manager
+chromedriver_binary
+yaml
+getpass
+youtube_dl
+PyNaCl
+ffmpeg
